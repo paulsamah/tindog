@@ -1,3 +1,3 @@
-Using HTML, CSS, Bootstrap 
+Using HTML, CSS, Bootstrap , Responsive WEB
 
 https://paulsamah-tindog.netlify.app/
